@@ -1,4 +1,4 @@
-# 🛫 Buscador de Vuelos con Notificación por WhatsApp 📲
+# 🛫 Buscador de Vuelos con Notificación 📲
 
 Este proyecto es una aplicación de búsqueda de vuelos que utiliza la API de SerpAPI para obtener información sobre vuelos y envía notificaciones por WhatsApp utilizando Twilio. La aplicación incluye una interfaz gráfica creada con Tkinter.
 
