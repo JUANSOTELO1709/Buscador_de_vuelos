@@ -16,6 +16,7 @@ Este proyecto es una aplicación de búsqueda de vuelos que utiliza la API de Se
 - Bibliotecas de Python: `requests`, `twilio`, `tkinter`, `tkcalendar`, `pandas`, `numpy`
 - Cuenta de Twilio y sus credenciales (Account SID, Auth Token, Números de WhatsApp)
 - Cuenta de SerpAPI y su API key
+- (BUSCANDO API QUE PERMITA NOTIFICACIONES INFINITAS)
 
 ## 🛠 Instalación
 
